@@ -9,6 +9,10 @@ This setup will work for your all PHP projects. You need to put these all files 
 - PHPMyAdmin
 - Composer
 - Custom PHP.ini & phpmyadmin.ini
+### Application ports:
+- Web Server: 8080
+- MySQL Database: 33061
+- phpMyAdmin: 8081
 
 To start the services:
 
